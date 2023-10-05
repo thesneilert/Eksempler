@@ -1,25 +1,24 @@
-# Coding Basics Explained (in Norwegian)
+# Grunnleggende Programmering Forklart (på norsk)
 
+Velkommen til prosjektet "Grunnleggende Programmering Forklart"! Denne depotet er dedikert til å gi en klar og omfattende forklaring av fundamentale programmeringskonsepter, som callback-funksjoner, variabelomfang og passering av funksjoner. Forklaringene er gitt på norsk, noe som gjør det enklere for norske utviklere å forstå disse konseptene.
 
-Welcome to the "Coding Basics Explained" project! This repository is dedicated to providing a clear and comprehensive explanation of fundamental programming concepts, such as callbacks, scoping, and passing functions. The explanations are provided in Norwegian, making it easier for Norwegian-speaking developers to understand these concepts.
+## Prosjektoversikt
 
-## Project Overview
+I dette depotet finner du detaljerte forklaringer og eksempler på følgende grunnleggende programmeringskonsepter:
 
-In this repository, you'll find detailed explanations and examples of the following fundamental coding concepts:
+1. **Callback-funksjoner**: Lær hvordan du arbeider med callback-funksjoner og forstå deres betydning i asynkron programmering.
 
-1. **Callback Functions**: Learn how to work with callbacks and understand their importance in asynchronous programming.
+2. **Variabelomfang (Scoping)**: Utforsk konseptet med variabelomfang, inkludert globale og lokale omfang.
 
-2. **Scoping**: Explore the concept of variable scoping, including global and local scopes.
+3. **Passering av funksjoner**: Dykk ned i finessene ved å passere funksjoner som argumenter og returverdier.
 
-3. **Passing Functions**: Dive into the intricacies of passing functions as arguments and return values.
+## Kom i gang
 
-## Getting Started
-
-1. Clone this repository to your local machine:
+1. Klone dette depotet til din lokale maskin:
 
    ```bash
    git clone https://github.com/thesneilert/Eksempler.git
 
-2. Choose a concept and open the file corresponding to the laungage your trying to learn.
+2. Velg et konsept og åpne filen som samsvarer med språket du prøver å lære.
 
-3. Enjoy the learning!
+3. Nyt læringen og lykke til!
