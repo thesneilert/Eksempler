@@ -8,6 +8,9 @@ function checkCar() {
 
 checkCar(); // Kjører funksjonen
 
+
+
+
 // Eksempel 2: Local Scoping
 
 function fixCar() {
@@ -20,6 +23,10 @@ fixCar(); // Kjører funksjonen
 // Prøver å aksessere localVariable utenfor fixCar-funksjonen
 // Dette vil føre til en feilmelding
 console.log(localVariable); 
+
+
+
+
 
 // Eksempel 3: Block Scoping (introdusert med let og const)
 

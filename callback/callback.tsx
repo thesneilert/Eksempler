@@ -1,5 +1,6 @@
 // 1. Definer en funksjon for å gi bilen til mekanikeren
 function GiTilMekaniker({ bil, callback }: { bil: string; callback: () => void }) {
+  // void betyr at det ikke sendes noe verdi.
   // 3. Inne i denne funksjonen bruker vi "callback" for å utføre en annen funksjon.
   callback(); // Her blir "callback" kalt som en funksjon.
 
